@@ -1,0 +1,12 @@
+newmtl mtl0
+Kd 1 0 0
+newmtl mtl1
+Kd 0 1 0
+newmtl mtl2
+Kd 0 0 1
+newmtl mtl3
+Kd 1 1 0
+newmtl mtl4
+Kd 1 0 1
+newmtl mtl5
+Kd 0 1 1
